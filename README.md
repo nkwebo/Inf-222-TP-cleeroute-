@@ -38,7 +38,7 @@ blog-api/
 
 ```bash
 # 1. Cloner le dépôt
-git clone https://github.com/VOTRE_USERNAME/blog-api-inf222.git
+git clone https://github.com/nkwebo/Inf-222-TP-cleeroute-.git
 cd blog-api-inf222
 
 # 2. Installer les dépendances
