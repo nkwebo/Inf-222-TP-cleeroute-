@@ -65,7 +65,7 @@ Documentation Swagger : **http://localhost:3000/api-docs**
 {
   "titre": "Introduction à Node.js",
   "contenu": "Node.js est un environnement d'exécution JavaScript côté serveur...",
-  "auteur": "joseph",
+  "auteur": "Charles",
   "date": "2026-03-19",
   "categorie": "Technologie",
   "tags": ["nodejs", "backend", "web"]
@@ -95,7 +95,7 @@ Filtres optionnels :
     {
       "id": 1,
       "titre": "Introduction à Node.js",
-      "auteur": joseph",
+      "auteur": Charles",
       "date": "2026-03-19",
       "categorie": "Technologie",
       "tags": ["nodejs", "backend"]
